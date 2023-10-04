@@ -51,6 +51,22 @@
 но он почему-то не хочет конфликтовать, когда мало информации и заменяет без спроса из второй ветки
 интересно, а в настройках возможногг убрать этот лимит проходной информации??
 или это задумка создателя
+dsfghsdf
+adfgadfga
+gfdagsdfhbsfgh
+fghssth
+aasgawtgqey
+easrgtqegrf
+sgrsdgsdfgbsfd
+sdgffsgbshrt
+swthywgfdsgwsrtge
+rgeqhwergbsgy
+sregegsdgtrer
+sdfgwsthwth
+wswhgqaragf
+aergteqtgewg
+sertergtdsf
+erwagtesdgvsdgewr5
 
 
 
