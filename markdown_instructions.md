@@ -31,17 +31,20 @@
 
 ## Основные комманды
 
-fdjghs;dlgbvh;
-sdfghs;dfklhg;sdfjkgh
-sjfdgh;sjdfghs;djg
-sjfd;dgh;dsfkjg
-jdsfgklsdghlsdkh
-jsdfghsdjk;ghsd;kjgh;sd
-jsdfgh;dsjkfgh;sdjghs
-jsdfghsjdfghs;djfghs
-jdfsk;ghsdkjghsdjgh
-hgkjfhkhfkg
-gkjhgkfhgkuyfku
+**git init** – инициализация локального репозитория
+**git status** – получить информацию от git о его текущем состоянии
+**git add** – добавить файл или файлы к следующему коммиту
+**git commit -m “message”** – создание коммита.
+**git log** – вывод на экран истории всех коммитов с их хеш-кодами
+**git branch** – посмотреть список веток в репозитории
+**git branch <название ветки>** – создать новую ветку
+**git checkout <название ветки>** – переход к другой ветке
+**git branch -d <название ветки>** – удалить ветку
+**git checkout** – переход от одного коммита к другому
+**git checkout master** – вернуться к актуальному состоянию и продолжить работу
+**git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
+**git checkout <название ветки>** – переход к другой ветке
+**git merge ветка** - сливает корневую с указанной
 
 
 ## Сыллки
