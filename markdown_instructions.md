@@ -14,7 +14,7 @@
 
 ## Списки
 
-Чтобы добавить ненумерованные списки, нужно пункты выделить * или знаком +, вот так -
+Чтобы добавить ненумерованные списки, нужно пункты выделить * или знаком +, вот так 
 * Элемент 1
 * Элемент 2
 * Элемент 3
@@ -28,6 +28,20 @@
 
 Чтобы вставить изображение, нажно
 ![привет, это тефтелька ](kat.jpg)
+
+## Основные комманды
+
+fdjghs;dlgbvh;
+sdfghs;dfklhg;sdfjkgh
+sjfdgh;sjdfghs;djg
+sjfd;dgh;dsfkjg
+jdsfgklsdghlsdkh
+jsdfghsdjk;ghsd;kjgh;sd
+jsdfgh;dsjkfgh;sdjghs
+jsdfghsjdfghs;djfghs
+jdfsk;ghsdkjghsdjgh
+hgkjfhkhfkg
+gkjhgkfhgkuyfku
 
 
 ## Сыллки
